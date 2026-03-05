@@ -1,11 +1,16 @@
-# SmartCenter — E-commerce na Hostinger
+# SmartCenter
 
-Loja virtual de smartphones e tecnologia com design minimalista (inspirado na Apple Store), em WordPress + WooCommerce.
+Loja virtual de smartphones e tecnologia com design minimalista (inspirado na Apple Store).
 
 ## O que está neste repositório
 
+- **smartcenter-app/** — **E-commerce em Next.js (React)** — TypeScript, Tailwind, SQLite, Zustand. Ver [smartcenter-app/README.md](smartcenter-app/README.md) para rodar e deploy.
 - **smartcenter-theme/** — Tema filho WordPress (usa [Storefront](https://wordpress.org/themes/storefront/) como tema pai)
-- **smartcenter-plugin/** — Plugin com campos de produto, categorias ativas e produtos relevantes
+- **smartcenter-plugin/** — Plugin WordPress com campos de produto, categorias ativas e produtos relevantes
+
+---
+
+## Deploy WordPress na Hostinger
 
 ## Deploy na Hostinger
 
